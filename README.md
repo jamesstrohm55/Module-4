@@ -30,7 +30,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/module4-knowledge-check.git
+git clone https://github.com/jamesstrohm55/Module-4.git
 
 Navigate to the project directory:
 
